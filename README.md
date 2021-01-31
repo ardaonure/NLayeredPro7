@@ -3,7 +3,7 @@ GENERAL INFO-------------------------------------
 This program aims to make a list for products.
 Enterprise architecture principles applied through the program.
 
-NorthwindContext was used in this program. 
+Northwind was used in this program. 
 It includes CRUD (create, read, update, delete) operations.
 Validation operation was achieved by Fluent Validation and Ninject used for dependancy resolver. (NuGet Packages)
 
